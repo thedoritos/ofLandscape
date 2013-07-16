@@ -13,8 +13,8 @@ This way works fine but the orientation of the iOS notification center
 remains in portrait, which means the annoying pulling down tab will appear
 on the left or right side of your screen.
 
-In my example, ofLandscape, the probrem is solved. And you will see the
-annoying center in the correct direction and bit confortable.
+In my example, ofLandscape, the problem is solved. And you will see the
+annoying center in the correct orientation and bit confortable.
 
 <ul>
   <li>Using "of_v0.7.4_ios_release"</li>
